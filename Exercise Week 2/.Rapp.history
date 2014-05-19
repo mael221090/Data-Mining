@@ -1,0 +1,2 @@
+load("/Users/maelrazavet/Desktop/Courses/Warwick/Data Mining/Exercise 2/irisSubset.RData")
+irisSubset
